@@ -35,7 +35,7 @@ Nel frattempo invito i visitatori a consultare il mio sito, leggere i miei artic
 <br/>  
 
 
-## Recent Blog Posts  
+## Articoli recenti  
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->
