@@ -36,8 +36,12 @@ Nel frattempo invito i visitatori a consultare il mio sito, leggere i miei artic
 
 
 ## Articoli recenti  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [Glossario](https://www.consulente-matematico.it/glossario/)
+- [P vs. NP](https://www.consulente-matematico.it/p-vs-np/)
+- [Cos’è un algoritmo?](https://www.consulente-matematico.it/cos-e-un-algoritmo/)
+- [Cos’è un computer?](https://www.consulente-matematico.it/cos-e-un-computer/)
+- [Regressione lineare](https://www.consulente-matematico.it/regressione-lineare/)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
