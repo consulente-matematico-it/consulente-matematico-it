@@ -16,7 +16,8 @@ Nel frattempo invito i visitatori a consultare il mio sito, leggere i miei artic
 <br/>  
 
 
-## Seguimi sui social  
+## Seguimi sui social
+<div align="center">  
 <a href="https://github.com/consulente-matematico-it" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -29,7 +30,7 @@ Nel frattempo invito i visitatori a consultare il mio sito, leggere i miei artic
 <a href="https://www.facebook.com/consulentematematico" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
-  
+</div> 
 
 <br/>  
 
