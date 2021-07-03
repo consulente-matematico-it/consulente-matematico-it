@@ -37,11 +37,11 @@ Nel frattempo invito i visitatori a consultare il mio sito, leggere i miei artic
 
 ## Articoli recenti  
 <!-- BLOG-POST-LIST:START -->
+- [La sezione aurea](https://www.consulente-matematico.it/sezione-aurea/)
 - [Glossario](https://www.consulente-matematico.it/glossario/)
 - [P vs. NP](https://www.consulente-matematico.it/p-vs-np/)
 - [Cos’è un algoritmo?](https://www.consulente-matematico.it/cos-e-un-algoritmo/)
 - [Cos’è un computer?](https://www.consulente-matematico.it/cos-e-un-computer/)
-- [Regressione lineare](https://www.consulente-matematico.it/regressione-lineare/)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
